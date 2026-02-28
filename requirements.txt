@@ -1,0 +1,6 @@
+customtkinter
+pandas
+scikit-learn
+joblib
+psutil
+requests
